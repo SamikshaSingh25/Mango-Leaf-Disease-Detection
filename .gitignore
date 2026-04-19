@@ -1,0 +1,9 @@
+# Ignore the research draft document
+final research paper draft.docx
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
