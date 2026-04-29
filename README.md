@@ -2,10 +2,10 @@
 This repository contains two Jupyter notebooks that train image classification models to identify leaf diseases from a local dataset.
 
 ## Team
-Samiksha Singh - 2210992238
-Kavya Arora - 2210991776
-Pranya Khattar - 2210990670
-Ankita - 2210991280
+- Samiksha Singh - 2210992238
+- Kavya Arora - 2210991776
+- Pranya Khattar - 2210990670
+- Ankita - 2210991280
 
 ## Project Structure
 
